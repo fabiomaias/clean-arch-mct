@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ALYsSvuUEbbe8nco7HQaPErq6IzTF0OluhJLiHYUB90Yzj0XBGdHuvpfmSXHXpEO0eCAjQTDiLzyYkUQP7nGsw==",
+  "success": true,
+  "projectFilePath": "/home/maia/Projects/netCore/cleanArchMCT/Shop.Infrastructure.IoC/Shop.Infrastructure.IoC.csproj",
+  "expectedPackageFiles": [
+    "/home/maia/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/maia/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

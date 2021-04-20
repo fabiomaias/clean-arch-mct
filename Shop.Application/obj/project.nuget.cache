@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xpjF5tzS0PHa6QV+JIak+WdLOttgzSxkusu1+tCnFc1oIbIyNDZRTniY+nkT8dXZ/cu7M2qsUx+ImSLeasWz5Q==",
+  "success": true,
+  "projectFilePath": "/home/maia/Projects/netCore/cleanArchMCT/Shop.Application/Shop.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/maia/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/maia/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
